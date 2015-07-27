@@ -346,6 +346,58 @@ a {
 .featured-img {
   margin: 10px 15px;
 }
+    
+#new_york_times-logo {
+    width: 671px;
+    height: 94px;
+}
+    
+#wired-logo {
+    width: 334px;
+    height: 69px;
+}
+    
+#fab-logo {
+    width: 191px;
+    height: 69px;    
+}
+    
+#io9-logo {
+    width: 139px;
+    height: 72px;    
+}
+    
+#dwell-logo {
+    width: 189px;
+    height: 72px;    
+}
+    
+#gq-logo {
+    width: 122px;
+    height: 86px;    
+}
+    
+#galleycat-logo {
+    width: 370px;
+    height: 72px;    
+}
+    
+#uncrate-logo {
+    width: 260px;
+    height: 47px;    
+}
+    
+#notcot-logo {
+    width: 176px;
+    height: 60px;    
+}
+    
+#harvard-logo {
+    width: 279px;
+    height: 79px;    
+}
+    
+    
 .divider-buy {
   display: block;
   width: 300px;
